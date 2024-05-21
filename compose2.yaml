@@ -1,5 +1,5 @@
 services:
-  web:
+  web-0.service:
     build: .
     ports:
       - "8000:5000"
